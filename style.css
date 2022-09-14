@@ -13,3 +13,16 @@
   /* utilities */
   
   /* content */
+
+
+  header{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+  }
+
+  #divInputText{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+  }
